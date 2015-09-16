@@ -14,9 +14,8 @@ We will use Bootstrap 4 beta for the CSS styling.
 
 Link to your screencast demo:
 ------------------------
-http://oprisan.com/dwa15/p1.m4v
+http://oprisan.com/dwa15/p1.mp4
 
 Plugins and details:
 ------------------------
-1. jQuery 2.1.3 Production
-2. Bootstrap 4.0.0-alpha
+1. Bootstrap 4.0.0-alpha
