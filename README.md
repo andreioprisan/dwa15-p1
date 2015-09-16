@@ -18,5 +18,5 @@ http://oprisan.com/dwa15/p1.m4v
 
 Plugins and details:
 ------------------------
-jQuery 2.1.3 Production
-Bootstrap 4.0.0-alpha
+1. jQuery 2.1.3 Production
+2. Bootstrap 4.0.0-alpha
